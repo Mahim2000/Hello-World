@@ -1,7 +1,10 @@
 # Hello World (My First Repo)
-This is my first ever Repository on Github, where I pushed multiple test commits to see how things actually work. Haven't done any merging or branching yet (as of 11th October, 2023), which I will learn later down the line.
+This is my first ever Repository on Github, where I pushed multiple test commits to see how things actually work.  
 
-### This Repo basically has 2 files. One made in C and the other in Python. Both the ".c" and ".py" file gives the output:
+[UPDATE]: The hello-world.html wasn't added normally. Infact the master branch was locally branched to another branch called "HTML-Version-Add", and the .html version was added.  
+Later on the "HTML-Version-Add" branch was Merged with the Master branch locally, with the "HTML-Version-Add" branch being deleted and pushed in the Remote Repo.
+
+### This Repo basically has 3 files (made in C, Python and HTML). The ".c", ".py" and ".html" file gives the output:
 
 ```  
 
